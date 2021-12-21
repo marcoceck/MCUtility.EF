@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Cjui0AXgZYWDCYlTZXllf1JlpbLKLKJgg6O0OHXdhrfFoMtNhousOmhn2K43Lz48bIZgLvR2TfQcQrBKTm3Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Sviluppo\\SRC\\Core\\CoreWebApi\\MCUtility.EF\\MCUtility.EF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cecchettim\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\cecchettim\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\cecchettim\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\cecchettim\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\cecchettim\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\cecchettim\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\cecchettim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
