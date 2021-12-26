@@ -27,3 +27,13 @@ C:\Sviluppo\SRC\Core\CoreWebApi\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility
 C:\Sviluppo\SRC\Core\CoreWebApi\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.csproj.CoreCompileInputs.cache
 C:\Sviluppo\SRC\Core\CoreWebApi\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.dll
 C:\Sviluppo\SRC\Core\CoreWebApi\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.pdb
+C:\Sviluppo\SRC\Core\MCUtility.EF\bin\Release\netcoreapp2.2\MCUtility.EF.deps.json
+C:\Sviluppo\SRC\Core\MCUtility.EF\bin\Release\netcoreapp2.2\MCUtility.EF.dll
+C:\Sviluppo\SRC\Core\MCUtility.EF\bin\Release\netcoreapp2.2\MCUtility.EF.pdb
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.csproj.AssemblyReference.cache
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.AssemblyInfoInputs.cache
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.AssemblyInfo.cs
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.csproj.CoreCompileInputs.cache
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.dll
+C:\Sviluppo\SRC\Core\MCUtility.EF\obj\Release\netcoreapp2.2\MCUtility.EF.pdb

@@ -691,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sviluppo\\SRC\\Core\\CoreWebApi\\MCUtility.EF\\MCUtility.EF.csproj",
+      "projectUniqueName": "C:\\Sviluppo\\SRC\\Core\\MCUtility.EF\\MCUtility.EF.csproj",
       "projectName": "MCUtility.EF",
-      "projectPath": "C:\\Sviluppo\\SRC\\Core\\CoreWebApi\\MCUtility.EF\\MCUtility.EF.csproj",
+      "projectPath": "C:\\Sviluppo\\SRC\\Core\\MCUtility.EF\\MCUtility.EF.csproj",
       "packagesPath": "C:\\Users\\cecchettim\\.nuget\\packages\\",
-      "outputPath": "C:\\Sviluppo\\SRC\\Core\\CoreWebApi\\MCUtility.EF\\obj\\",
+      "outputPath": "C:\\Sviluppo\\SRC\\Core\\MCUtility.EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cecchettim\\AppData\\Roaming\\NuGet\\NuGet.Config",
