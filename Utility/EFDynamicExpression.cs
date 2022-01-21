@@ -213,6 +213,12 @@ namespace MCUtility.EF.Utility
                     if (rIntOk)
                         dynamicExpressionFilter = String.Format("it.{0} = {1}", filter.FieldName, rInt.ToString(CultureInfo.InvariantCulture));
                     break;
+                case "NUMBER_NOT_IN":
+                case "NUMBER_INT_NOT_IN":
+                    bool rIntOkNOTIN = decimal.TryParse(filter.FieldValue, NumberStyles.AllowDecimalPoint, nfi, out decimal rIntNOTIN);
+                    if (rIntOkNOTIN)
+                        dynamicExpressionFilter = String.Format("it.{0} != {1}", filter.FieldName, rIntNOTIN.ToString(CultureInfo.InvariantCulture));
+                    break;
                 case string r when (r == "MULTI" || r == "SELECT"): //                    "MULTI":
                     if (filter.FieldValues != null && filter.FieldValues.Count > 0)
                     {
