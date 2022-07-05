@@ -31,3 +31,5 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 bin/
+/obj/Debug/netcoreapp2.2/MCUtility.EF.csproj.AssemblyReference.cache
+/obj/Release/netcoreapp2.2/MCUtility.EF.csproj.AssemblyReference.cache
